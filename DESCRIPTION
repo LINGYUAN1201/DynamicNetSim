@@ -1,0 +1,12 @@
+Package: DynamicNetSim
+Title: A Package for Dynamic Network Simulation
+Version: 0.1.0
+Authors@R: person('LING', email = 'LingYUAN1201@outlook.com', role = c('aut', 'cre'))
+Description: This package provides tools for simulating dynamic networks and game-theoretic interactions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    igraph,
+    stats
+RoxygenNote: 7.3.2
